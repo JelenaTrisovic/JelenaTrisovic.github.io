@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jelena Trisovic</title>
+    <link>https://JelenaTrisovic.github.io/publication-type/1/</link>
+      <atom:link href="https://JelenaTrisovic.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Jelena Trisovic</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JelenaTrisovic.github.io/media/icon_huc9e19fc07fdab1bbccf516952ac7417e_18324_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://JelenaTrisovic.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Image Blind Deblurring Using a Smoothed NUV Prior and Iteratively Reweighted Coordinate Descent</title>
+      <link>https://JelenaTrisovic.github.io/publication/multi-image-blind-deblurring-using-a-smoothed-nuv-prior-and-iteratively-reweighted-coordinate-descent/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://JelenaTrisovic.github.io/publication/multi-image-blind-deblurring-using-a-smoothed-nuv-prior-and-iteratively-reweighted-coordinate-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Conflict Detection in Police Body-Worn Audio</title>
+      <link>https://JelenaTrisovic.github.io/publication/auto-conflict-detection/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://JelenaTrisovic.github.io/publication/auto-conflict-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
