@@ -57,7 +57,7 @@ education:
   #   date_end: Present
   #   summary: |
   #     Thesis focuses on the interface between control and vision, enabling safe perception-aware control of autonomous systems.
-  - area: PhD (AI focus)
+  - area: PhD (System control and computer vision focus)
     institution: ETH Zurich
     date_start: 2021-09-01
     date_end: 2026-11-01
@@ -84,9 +84,9 @@ work:
     date_start: 2021-09-01
     date_end: ''
     summary: |2-
-      Applied control-theoretic tools to analyze deep sequence models (state space models, transformers).
-      Designed and experimentally validated uncertainty-aware, safe perception-based control for autonomous racing. 
-      Developed a SLAM method with explicit uncertainty guarantees for robust perception in safety-critical settings. 
+      Applied control-theoretic tools to analyze deep sequence models (state space models, transformers);
+      designed and experimentally validated uncertainty-aware, safe perception-based control for autonomous racing; 
+      developed a SLAM method with explicit uncertainty guarantees for robust perception in safety-critical settings. 
   - position: Coding instructor
     company_name: Girls Code Too
     company_url: 'https://girlscodetoo.ch/'
