@@ -37,7 +37,7 @@ profiles:
     url: https://www.linkedin.com/in/jelena-trisovic/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=QkB5zqUAAAAJ&hl=en&oi=sra
-  - icon: academicons/email
+  - icon: hero/envelope
     url: mailto:jelena.trisovic@gmail.com
 #  - icon: brands/github
 #    url: https://github.com/JelenaTrisovic
