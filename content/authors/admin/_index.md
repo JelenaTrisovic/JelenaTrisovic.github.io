@@ -48,7 +48,7 @@ interests:
   - Safe perception-aware control
   - Certifiable perception 
   - Interpretability of sequence models
-  - Intelligent autonomous systems & robotics
+  - Intelligent autonomous systems and robotics
 
 education:
   # - area: PhD (AI Focus)
